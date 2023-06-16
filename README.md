@@ -13,6 +13,7 @@ Welcome to the My Web Application Repository! This project is the final assignme
 - **Local1.HTML**:([Local1.HTML](https://github.com/HanadiAlzaidi/-IT115-final-project/blob/main/local1.html))
 - **Branch1.HTML**: ([Branch1.HTML](https://github.com/HanadiAlzaidi/-IT115-final-project/blob/main/branch1.html))
 - **Test.HTML**: ([Test.HTML](https://github.com/HanadiAlzaidi/-IT115-final-project/blob/main/test.html))
+- **index.HTML**: ([index.html.HTML](https://github.com/HanadiAlzaidi/-IT115-final-project/blob/main/index.html))
 ## Installation
 
 To set up the Hanadi Web Application locally, follow these steps:
